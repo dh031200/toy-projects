@@ -10,8 +10,8 @@
 
 ## Usage
 ```bash
-git clone https://gitlab.com/bluesignal/toy-project/road-density-simulation.git
-cd road-density-simulation
+git clone https://github.com/dh031200/toy-projects.git
+cd toy-projects/road-density-simulation
 python main.py
 ```
 
