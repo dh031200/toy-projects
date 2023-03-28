@@ -1,5 +1,7 @@
 # 도로 밀도 시뮬레이션
 
+![Preview](https://github.com/dh031200/toy-projects/blob/main/road-density-simulation/assets/Preview.png)
+
 ## Prerequisites
 
 > numpy  
